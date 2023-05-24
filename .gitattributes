@@ -1,0 +1,2 @@
+images/slider7001400/robot[[:space:]]arm.gif filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
