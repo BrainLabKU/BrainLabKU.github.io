@@ -33,3 +33,11 @@
   education1: Computational Neuroscience
   education2: Medical image analysis
   education3: Neurodegenerative disease
+
+- name: Who's next?
+  photo: wewantyou.png
+  email: <a href='/contacts'>Contacts</a>
+  number_educ: 3
+  education1: We
+  education2: Want
+  education3: You
