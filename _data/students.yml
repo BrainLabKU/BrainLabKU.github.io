@@ -49,11 +49,11 @@
 
 - name: Min-Kyoung Jung (정민경)
   photo: minkyung.jpg
-  email: kbsdr11@korea.ac.kr
+  email: mkjung@korea.ac.kr
   number_educ: 3
-  education1: Machine learning
-  education2: Brain-computer interface
-  education3: Traumatic brain injury
+  education1: Biomedical engineering
+  education2: Explainable artificial intelligence
+  education3: Neurointensive care
 
 - name: Cheol-Hui Lee (이철희)
   photo: chulhee.jpg
