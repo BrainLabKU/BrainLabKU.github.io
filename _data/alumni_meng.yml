@@ -1,0 +1,17 @@
+- name: Dong-Kyu Kim (김동규)
+  photo: dongkyu.jpg
+  info: Research Engineer, Asan Institute for Life Sciences, Seoul Asan Medical Center
+  email: dein200318@korea.ac.kr
+  number_educ: 3
+  education1: Machine learning
+  education2: Medical artificial intelligence
+  education3: Neuro-physiological signal processing
+
+- name: Jae-Wook Heo (허재욱)
+  photo: jaewook.jpg
+  info: Ph.D. Student, Department of Brain and Cognitive Engineering, Korea University
+  email: kinik33@korea.ac.kr
+  number_educ: 3
+  education1: Machine learning
+  education2: Brain-computer interface
+  education3: Brain signal processing

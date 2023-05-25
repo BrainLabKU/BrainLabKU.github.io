@@ -1,0 +1,35 @@
+- name: Woo-Seok Jung (정우석)
+  photo: wooseok.jpg
+  email: wooseok.jung@some.ox.ac.uk
+  info: Mathematics, University of Oxford
+  number_educ: 3
+  education1: Integrating high-dimensional category theory
+  education2: Brain-computer interface
+  education3: Mathematical theory of computational algorithm
+
+- name: Ui-Joon Seo (서의준)
+  photo: uijeo.jpg
+  info: Biochemistry, University of Cambridge
+  email: uijeoji1999@gmail.com
+  number_educ: 3
+  education1: Plant science
+  education2: Systems biology
+  education3: Structural biology
+
+- name: Hee-Ra Jung (정희라)
+  photo: heera.jpg
+  info: Cognitive Neuroscience, Washington University in St.Louis
+  email: heera@wustl.edu
+  number_educ: 3
+  education1: Neurodegenerative disease
+  education2: Neurointensive care
+  education3: Brain-computer interface
+
+- name: Daesun Ahn (안대선)
+  photo: daesun.jpg
+  info: Neurobiology/Psychology/Nutrition Science, University of California, Berkeley
+  email: dsahn@berkeley.edu
+  number_educ: 3
+  education1: Computational Neuroscience
+  education2: Medical image analysis
+  education3: Neurodegenerative disease

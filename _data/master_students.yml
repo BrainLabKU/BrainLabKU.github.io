@@ -1,0 +1,64 @@
+- name: Joung-Woo Hyung (형정우)
+  photo: hyungwoo.jpg
+  email: gudwjddn@korea.ac.kr
+  number_educ: 3
+  education1: Machine learning
+  education2: Brain-computer interface
+  education3: Neuro-physiological signal processing
+
+- name: Seung-Hoon Yang (양승훈)
+  photo: seunghoon.jpg
+  info: Medical Doctor, Neurosurgery Department, Hwaseong Central Hospital
+  email: gorillafamil@naver.com
+  number_educ: 3
+  education1: Machine learning
+  education2: Brain-computer interface
+  education3: Neuro-physiological signal processing
+
+- name: Tae-Sung Han (한태성)
+  photo: taesung.png
+  email: 2022010620@korea.ac.kr
+  number_educ: 3
+  education1: Brain-computer interface
+  education2: Deep learning
+  education3: Neuroimaging analysis
+
+- name: Dong-Young Kim (김동영)
+  photo: dongyoung.jpg
+  email: nonlunch@korea.ac.kr
+  number_educ: 3
+  education1: Brain-machine interface
+  education2: Brain signal processing
+  education3: Information theory
+
+- name: Jun-Su Park (박준수)
+  photo: junsu.jpg
+  email: junsupark0213@korea.ac.kr
+  number_educ: 3
+  education1: Brain-machine interface
+  education2: Deep learning
+  education3: Brain signal processing and analysis
+
+- name: Donghyeok Jo (조동혁)
+  photo: donghyeok.png
+  email: joeastgur@korea.ac.kr
+  number_educ: 3
+  education1: Brain-computer interface
+  education2: Deep learning
+  education3: Brain signal/image processing
+
+- name: MinJu Kim (김민주)
+  photo: minju.png
+  email: irene2448@korea.ac.kr
+  number_educ: 3
+  education1: Deep learning
+  education2: Brain-computer interface
+  education3: Brain image processing
+
+- name: Kyung Ah Kim (김경아)
+  photo: kyeonga.jpg
+  email: danslavie0915@korea.ac.kr
+  number_educ: 3
+  education1: Medical artificial intelligence
+  education2: Neurological disorder
+  education3: Neuro-physical signal processing

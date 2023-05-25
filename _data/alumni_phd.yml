@@ -1,0 +1,26 @@
+- name: Hakseung Kim (김학승)
+  photo: hakseung.jpg
+  info: Research Professor, Dept. of Brain and Cognitive Engineering, Korea University
+  email: mkhsm@korea.ac.kr
+  number_educ: 3
+  education1: Critical care via multimodal monitoring
+  education2: Pathophysiology of traumatic brain injury
+  education3: Neuro-phsyiological signal processing
+
+- name: Hack-Jin Lee (이학진)
+  photo: hakjin.png
+  info: Senior Research Engineer, Institute of Fundamental and Advanced Technology, Hyundai Motor Group
+  email: hjlee@koreauniversity.info
+  number_educ: 3
+  education1: Precision medicine
+  education2: Medical artificial intelligence
+  education3: Advanced physiological monitoring
+
+- name: Seung-Bo Lee (이승보)
+  photo: seungbo.jpg
+  info: Assistant Professor, Keimyung University School of Medicine
+  email: koreateam23@koreauniversity.info
+  number_educ: 3
+  education1: Motor imagery classification
+  education2: Neuro-physiological signal processing
+  education3: Machine learning for health informatics

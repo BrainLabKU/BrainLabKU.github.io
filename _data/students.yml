@@ -1,25 +1,72 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Eun-Jin Ha (하은진)
+  photo: eunjin.jpg
+  info: Clinical Assistant Professor, Neurosurgery & Division of Intensive Care, SNU Hospital
+  email: hejce1001@korea.ac.kr
+  number_educ: 3
+  education1: Neurocritical care
+  education2: Precision medicine using machine learning
+  education3: Neuromonitoring
 
-- name: Ilse Kuijf 
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Jeongjun Park (박정준)
+  photo: jeongjun.jpg
+  info: Assistant Professor, Department of Anesthesiology and Pain Medicine, CHA Bundang Medical Center, CHA University School of Medicine
+  email: jeongjun.park@cha.ac.kr
+  number_educ: 2
+  education1: Continous vital signal analysis
+  education2: Sedation level monitoring
 
-- name: Tessa Van der Ent
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: In-Nea Wang (왕인내)
+  photo: innae.jpg
+  email: innea@korea.ac.kr
+  number_educ: 3
+  education1: Medical image analysis
+  education2: Theory of computation and algorithm
+  education3: Machine learning
 
+- name: Se-Ho Lee (이세호)
+  photo: seho.png
+  email: louislee6111@korea.ac.kr
+  number_educ: 3
+  education1: Brain-computer interface
+  education2: Brain signal processing
+  education3: Machine learning for health information
 
+- name: Jin-Hyung Kim (김진형)
+  photo: jinhyeong.jpg
+  email: louiskim@korea.ac.kr
+  number_educ: 3
+  education1: Brain-computer interface
+  education2: Machine learning
+  education3: Brain signal processing
+
+- name: Ji-Hyeok Jung (정지혁)
+  photo: jihyeok.jpg
+  email: jjh4599@korea.ac.kr
+  number_educ: 3
+  education1: Electroencephalography
+  education2: Deep learning
+  education3: Brain-machine interface
+
+- name: Min-Kyoung Jung (정민경)
+  photo: minkyung.jpg
+  email: kbsdr11@korea.ac.kr
+  number_educ: 3
+  education1: Machine learning
+  education2: Brain-computer interface
+  education3: Traumatic brain injury
+
+- name: Cheol-Hui Lee (이철희)
+  photo: chulhee.jpg
+  email: dlcjfgmlnasa28@korea.ac.kr
+  number_educ: 3
+  education1: Machine learning
+  education2: Deep learning
+  education3: Brain-computer interface
+
+- name: Jae-Wook Heo (허재욱)
+  photo: jaewook.jpg
+  email: kinik33@korea.ac.kr
+  number_educ: 3
+  education1: Machine learning
+  education2: Brain-computer interface
+  education3: Brain signal processing
