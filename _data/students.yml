@@ -47,7 +47,7 @@
   education2: Deep learning
   education3: Brain-machine interface
 
-- name: Min-Kyoung Jung (정민경)
+- name: Min-Kyung Jung (정민경)
   photo: minkyung.jpg
   email: mkjung@korea.ac.kr
   number_educ: 3
@@ -70,3 +70,11 @@
   education1: Machine learning
   education2: Brain-computer interface
   education3: Brain signal processing
+
+- name: Who's next?
+  photo: wewantyou.png
+  email: <a href='/contacts'>Contacts</a>
+  number_educ: 3
+  education1: We
+  education2: Want
+  education3: You

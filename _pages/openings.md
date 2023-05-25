@@ -1,41 +1,31 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Brain Lab - Contacts"
 layout: textlay
-excerpt: "Openings"
+excerpt: "contacts"
 sitemap: false
-permalink: /vacancies
+permalink: /contacts
 ---
 
-# Open positions
+# We want you!
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**고려대학교 뇌공학연구실(Brain Lab.)에서는 인공지능 및 의료 분야에 관심이 있는 대학원생 및 학부 연구생을 모집합니다**
 
-We are  looking for new group members with passion, talent, and grit!
+고려대학교 Brain Lab.은 서울대병원, 고려대병원, 아주대병원 등 다양한 의료 기관들과 협업하고 있으며, 이를 통해 실제 환자의 의료 데이터를 활용한 연구와 개발을 진행하고 있습니다. 의료 데이터를 활용한 연구와 개발에 관심이 있으시거나, 의료 AI 지식을 쌓고 싶으신 분들의 많은 지원 바랍니다. 
+### [주요 업무]
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+- 인공지능 기반 뉴로피드백 기술을 활용하여, 수면장애와 치매 등의 다양한 신경·정신질환 치료에 활용 가능한 새로운 패러다임의 전자약(Electroceutical) 기술을 개발
+- 생체신호·의료영상 분석과 관련된 인공지능 원천기술을 개발하고, 지능형 임상의사결정지원 시스템 등의 임상연구를 진행
+- EEG, fNIRS 등의 멀티모달 뇌신호를 분석하여 로봇 팔, 휠체어 등의 기기를 고신뢰도로 제어할 수 있는 AI 기반 Brain-Computer Interface (BCI) 기술을 개발
 
-### Past open positions
+### [우대 사항]
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
+- 대학원 진학을 고려중인 학부생
+- 의료 AI 관련 경험이 있거나 관심이 있는 지원자
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
-
-
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
+### [지원 방법]
+- irene2448@korea.ac.kr로 자유양식의 이력서를 제출하여 지원
+- 서류 평가 후 개별 면접 진행
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/together.jpg" width="95%">
 </figure>
