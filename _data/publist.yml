@@ -58,296 +58,528 @@
   news2:
 
 
-- title: "Observation of flat bands in twisted bilayer graphene"
-  image: TBG_ARPES.png
+- title: "Prediction of Life-Threatening Intracranial Hypertension During the Acute Phase of Traumatic Brain Injury Using Machine Learning"
+  image: hackjin.gif
   # description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+  authors: Hack-Jin Lee, Hakseung Kim, Young-Tak Kim, Kanghee Won, Marek Czosnyka, Dong-Joo Kim
   link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
+    url: https://ieeexplore.ieee.org/document/9444784
+    display:  IEEE Journal of Biomedical and Health Informatics (2021)
   highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
+  news1: Top 10%
+  # news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
 
-- title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
+- title: "Cerebrospinal fluid dynamics correlate with neurogenic claudication in lumbar spinal stenosis"
   image: Direct.png
-  authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
+  authors: Hyun-Ji Kim, Hakseung Kim, Young-Tak Kim, Chul-Ho Sohn, Keewon Kim, Dong-Joo Kim 
   # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: https://www.nature.com/articles/s41535-020-00292-4
-    display:  npj Quantum Materials 5, 91 (2020)
-  highlight: 1
-  news2:
-
-- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
-  # description:
-  link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst. Nanoeng. 6, 99 (2020)
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250742
+    display:  PLoS ONE (2021)
   highlight: 0
-  news2:
+  # news1: Top 10%
 
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  # description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+- title: "Lower Breakpoint of Intracranial Amplitude-Pressure Relationship in Normal Pressure Hydrocephalus"
+  image: Direct.png
+  authors: Zofia H. Czosnyka, Afroditi D. Lalou, Eva Nabbanja, Matthew Garnett, Nicole C. Keong, Eric A. Schmidt, Dong-Joo Kim & Marek Czosnyka 
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416 (2020)
+    url: https://link.springer.com/chapter/10.1007/978-3-030-59436-7_57
+    display:  Acta neurochirurgica (2021)
   highlight: 0
-  news2:
+  # news1: Top 10%
 
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  # description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
+- title: "Lower Breakpoint of Intracranial Amplitude-Pressure Relationship in Normal Pressure Hydrocephalus"
+  image: Direct.png
+  authors: Zofia H. Czosnyka, Afroditi D. Lalou, Eva Nabbanja, Matthew Garnett, Nicole C. Keong, Eric A. Schmidt, Dong-Joo Kim & Marek Czosnyka 
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
-  highlight: 1
-  news2:
-
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  # description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
-
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  # description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 1
-  news2:
-
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  # description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
-  news2:
-
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  # description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  # description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
-  highlight: 0
-  news2:
-
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
-  # description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
-
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  # description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2:
-
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  # description:
-    # We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
-  link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
-
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  # description:
-    # We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
+    url: https://link.springer.com/chapter/10.1007/978-3-030-59436-7_57
+    display:  Acta neurochirurgica (2021)
   highlight: 0
 
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  # description:
-    # We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
+# - title: "Moderating Effect of Teacher-Student Support and Conflict in the Relationship of Learning Motivation and School Engagement in Elementary School Students"
+#   image: Direct.png
+#   authors: Zofia H. Czosnyka, Afroditi D. Lalou, Eva Nabbanja, Matthew Garnett, Nicole C. Keong, Eric A. Schmidt, Dong-Joo Kim & Marek Czosnyka 
+#   # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+#   link:
+#     url: https://link.springer.com/chapter/10.1007/978-3-030-59436-7_57
+#     display:  Acta neurochirurgica (2021)
+#   highlight: 0
 
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  # description:
-    # Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
+- title: "Brain-Controlled Robotic Arm System based on Multi-Directional CNN-BiLSTM Network using EEG Signals"
+  image: jihoon.gif
+  authors: Ji-Hoon Jeong, Kyung-Hwan Shim, Dong-Joo Kim, Seong-Whan Lee
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
+    url: https://ieeexplore.ieee.org/document/9040397
+    display:  IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING (2020)
   highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
+  news1: TOP 10%
 
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  # description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+- title: "Comparative Analysis of Features Extracted from EEG Spatial, Spectral and Temporal Domains for Binary and Multiclass Motor Imagery Classification"
+  image: sblee.jpg
+  authors: Seung-Bo Lee, Hyun-Ji Kim, Hakseung Kim, Ji-Hoon Jeong, Seong-Whan Lee, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
+    url: https://www.sciencedirect.com/science/article/pii/S0020025519305365
+    display:  Information Sciences (2019)
+  highlight: 1
+  news1: TOP 10%
+
+- title: "Artifact removal from neurophysiological signals: impact on intracranial and arterial pressure monitoring in traumatic brain injury"
+  image: sblee2.jpg
+  authors: Seung-Bo Lee, Hakseung Kim, Young-Tak Kim, Frederick A Zeiler, Peter Smielewski, Marek Czosnyka, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://thejns.org/view/journals/j-neurosurg/132/6/article-p1952.xml?tab_body=fulltext
+    display:  JOURNAL OF NEUROSURGERY (2019)
+  highlight: 1
+  news1: TOP 10%
+
+- title: "Novel index for predicting mortality during the first 24 hours after traumatic brain injury"
+  image: hskim2018.jpg
+  authors: Hakseung Kim, Hack-Jin Lee, Young-Tak Kim, Yunsik Son, Peter Smielewski, Marek Czosnyka, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://thejns.org/view/journals/j-neurosurg/131/6/article-p1887.xml?tab_body=fulltext
+    display:  JOURNAL OF NEUROSURGERY (2018)
+  highlight: 1
+  news1: TOP 10%
+
+- title: "Impaired cerebral compensatory reserve is associated with admission imaging characteristics of diffuse insult in traumatic brain injury"
+  image: hskim2018.jpg
+  authors: Frederick A. Zeiler, Dong-Joo Kim, Manuel Cabeleira, Leanne Calviello, Peter Smielewski, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267721/
+    display:  Acta Neurochirurgica (2018)
   highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
+  news1: TOP 10%
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  # description:
-    # The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+- title: "Changes in the gray and white matter of patients with ischemic-edematous insults after traumatic brain injury"
+  image: hskim20182.jpg
+  authors: Hakseung Kim, Young-Tak Kim, Eun-Suk Song, Byung C Yoon, Young Hun Choi, Keewon Kim, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
+    url: https://thejns.org/view/journals/j-neurosurg/131/4/article-p1243.xml
+    display:  JOURNAL OF NEUROSURGERY (2018)
   highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+  news1: TOP 10%
 
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  # description:
-    # Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+- title: "Validation of Pressure Reactivity and Pulse Amplitude Indices Against the Lower Limit of Autoregulation, Part I: Experimental Intra-Cranial Hypertension"
+  image: hskim20182.jpg
+  authors: Frederick A. Zeiler, Joseph Donnelly, Leanne Calviello, Jennifer K. Lee, Peter Smielewski, Ken Brady, Dong-Joo Kim, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
-
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  # description:
-    # We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
-  link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
-
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  # description:
-    # In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
-  link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
-
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
-  # description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
-  link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6909776/
+    display:  Journal of Neurotrauma (2018)
   highlight: 0
-  news2:
+  news1: TOP 10%
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  # description:
-    # We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+- title: "Validation of Davson's equation in patients suffering from idiopathic normal pressure hydrocephalus"
+  image: hskim20182.jpg
+  authors: Afroditi-Despina Lalou, Virginia Levrini, Matthew Garnett, Eva Nabbanja, Dong-Joo Kim, Laurent Gergele, Anna Bjornson, Zofia Czosnyka, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
+    url: https://link.springer.com/article/10.1007/s00701-018-3497-9
+    display:  Acta Neurochirurgica (2018)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Automated artifact elimination of physiological signals using a deep belief network: An application for continuously measured arterial blood pressure waveforms"
+  image: ysson.jpg
+  authors: Yunsik Son, Seung-Bo Lee, Hakseung Kim, Eun-Suk Song, Hyub Huh, Marek Czosnyka, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://link.springer.com/article/10.1007/s00701-018-3497-9
+    display: Information Sciences (2018)
   highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+  news1: TOP 10%
 
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  # description:
-    # QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
+- title: "Mathematical Modelling of CSF Pulsatile Flow in Aqueduct Cerebri"
+  image: ysson.jpg
+  authors: Zofia Czosnyka, Dong-Joo Kim, Olivier Balédent, Eric A. Schmidt, Peter Smielewski, Marek Czosnyka 
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
+    url: https://link.springer.com/chapter/10.1007/978-3-319-65798-1_47
+    display: Acta Neurochirurgica (2018)
   highlight: 0
+  news1: TOP 10%
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  # description:
-    # We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+- title: "Hemodynamic Instability and Cardiovascular Events After Traumatic Brain Injury Predict Outcome After Artifact Removal With Deep Belief Network Analysis"
+  image: hemodynamic.jpeg
+  authors: Hakseung Kim, Seung-Bo Lee, Yunsik Son, Marek Czosnyka, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
-
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  # description:
-    # Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: https://journals.lww.com/jnsa/Fulltext/2018/10000/Hemodynamic_Instability_and_Cardiovascular_Events.10.aspx
+    display: Journal of Neurosurgical Anesthesiology (2018)
   highlight: 1
+  news1: TOP 10%
 
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
-  # description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+- title: "Monitoring of Optimal Cerebral Perfusion Pressure in Traumatic Brain Injured Patients Using a Multi-Window Weighting Algorithm"
+  image: ysson.jpg
+  authors: Xiuyun Liu, Natasha M Maurits, Marcel J H Aries, Marek Czosnyka, Ari Ercole, Joseph Donnelly, Danilo Cardim, Dong-Joo Kim, Celeste Dias, Manuel Cabeleira, Peter Smielewski
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: https://www.liebertpub.com/doi/10.1089/neu.2017.5003?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+    display: Journal of Neurotrauma (2017)
   highlight: 0
+  news1: TOP 10%
+
+- title: "Abilities of a Densitometric Analysis of Computed Tomography Images and Hemorrhagic Parameters to Predict Outcome Favorability in Patients With Intracerebral Hemorrhage"
+  image: abilites.jpeg
+  authors: Hakseung Kim, Xiaoke Yang, Young Hun Choi, Byung C Yoon, Keewon Kim, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://journals.lww.com/neurosurgery/Fulltext/2018/08000/Abilities_of_a_Densitometric_Analysis_of_Computed.9.aspx
+    display: Neurosurgery (2018)
+  highlight: 1
+  news1: TOP 10%
+
+- title: "Abilities of a Densitometric Analysis of Computed Tomography Images and Hemorrhagic Parameters to Predict Outcome Favorability in Patients With Intracerebral Hemorrhage"
+  image: abilites.jpeg
+  authors: Hakseung Kim, Xiaoke Yang, Young Hun Choi, Byung C Yoon, Keewon Kim, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://journals.lww.com/neurosurgery/Fulltext/2018/08000/Abilities_of_a_Densitometric_Analysis_of_Computed.9.aspx
+    display: Neurosurgery (2018)
+  highlight: 1
+  news1: TOP 10%
+
+- title: "An Association Between ICP-Derived Data and Outcome in TBI Patients: The Role of Sample Size"
+  image: hemodynamic.jpeg
+  authors: Brenno Cabella, Joseph Donnelly, Danilo Cardim, Xiuyun Liu, Manuel Cabeleira, Peter Smielewski, Christina Haubrich, Peter J. A. Hutchinson, <br>Dong-Joo Kim & Marek Czosnyka 
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://link.springer.com/article/10.1007/s12028-016-0319-x
+    display: Neurocritical Care (2017)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Cerebrovascular pressure reactivity monitoring using wavelet analysis in traumatic brain injury patients: A retrospective study"
+  image: cerebrovascular.png
+  authors: X. Liu, J. Donnelly, Marek Czosnyka, M. J. H. Aries, K. Brady, D. Cardim, C. Robba, M. Cabeleira, Dong-Joo Kim, C. Haubrich, P. J. Hutchinson, P. Smielewski
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002348
+    display: PLoS MEDICINE (2017)
+  highlight: 1
+  news1: TOP 10%
+
+- title: "Chlorhexidine and silver sulfadiazine coating on central venous catheters is not sufficient for protection against catheter-related infection: Simulation-based laboratory research with clinical validation"
+  image: cerebrovascular.png
+  authors: Yoon Ji Choi, Jae Kwan Lim, Jeong Jun Park, Hyub Huh, Dong-Joo Kim, Chang-Hoon Gong, Seung Zhoo Yoon
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5536400/
+    display: Journal of International Medical Research (2017)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Monitoring of Optimal Cerebral Perfusion Pressure in Traumatic Brain Injured Patients Using a Multi-Window Weighting Algorithm"
+  image: cerebrovascular.png
+  authors: Xiuyun Liu, Natasha M. Maurits, Marcel J.H. Aries, Marek Czosnyka, Ari Ercole, Joseph Donnelly, Danilo Cardim, Dong-Joo Kim, Celeste Dias, Manuel Cabeleira, Peter Smielewski
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.liebertpub.com/doi/10.1089/neu.2017.5003?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+    display: Journal of Neurotrauma (2017)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "An Association Between ICP-Derived Data and Outcome in TBI Patients: The Role of Sample Size"
+  image: cerebrovascular.png
+  authors: Brenno Cabella, Joseph Donnelly, Danilo Cardim, Xiuyun Liu, Manuel Cabeleira, Peter Smielewski, Christina Haubrich, Peter J. A. Hutchinson, <br> Dong-Joo Kim & Marek Czosnyka 
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://link.springer.com/article/10.1007/s12028-016-0319-x
+    display: Neurocritical Care (2017)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Cerebrospinal fluid dynamics at the lumbosacral level in patients with spinal stenosis: A pilot study: CSF DYNAMICS IN SPINAL STENOSIS"
+  image: cerebrovascular.png
+  authors: Se-Woong Chun, Hack-Jin Lee, Koong-Ho Nam, Chul-Ho Sohn, Kwang Dong Kim, Eun-Jin Jeong, Sun G. Chung, Keewon Kim, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1002/jor.23448
+    display: Journal of Orthopaedic Research (2017)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Spectral analysis of intracranial pressure: Is it helpful in the assessment of shunt functioning in-vivo?"
+  image: cerebrovascular.png
+  authors: Dong-Joo Kim, Hakseung Kim, Eun-Jin Jeong, Hack-Jin Lee, Marek Czosnyka, Yunsik Son, Byung-Jo Kim, Zofia Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0303846716300233?via%3Dihub
+    display: Clinical Neurology and Neurosurgery (2016)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Finite Element Model for Hydrocephalus and Idiopathic Intracranial Hypertension"
+  image: cerebrovascular.png
+  authors: Dong-Joo Kim, Hakseung Kim, Dae-Hyeon Park, Hack-Jin Lee, Zofia Czosnyka, Michael P F Sutcliffe, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27165898/
+    display: Acta neurochirurgica (2016)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Morphological Feature Extraction From a Continuous Intracranial Pressure Pulse via a Peak Clustering Algorithm"
+  image: cerebrovascular.png
+  authors: Hack-Jin Lee, Eun-Jin Jeong, Hakseung Kim, Marek Czosnyka, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://ieeexplore.ieee.org/document/7365433/
+    display: IEEE Transactions on Bio-medical Engineering (2016)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Cerebrospinal fluid dynamics at the lumbosacral level in patients with spinal stenosis"
+  image: cerebrovascular.png
+  authors: Se-Woong Chun, Hack-Jin Lee, Koong-Ho Nam, Chul-Ho Sohn, Kwang Dong Kim, Eun-Jin Jeong, Sun G. Chung, Keewon Kim, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1002/jor.23448
+    display: Journal of Orthopaedic Research (2016)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Finite element analysis of periventricular lucency in hydrocephalus: extravasation or transependymal CSF absorption?"
+  image: cerebrovascular.png
+  authors: Hakseung Kim, Eun-Jin Jeong, Dae-Hyeon Park, Zofia Czosnyka, Byung C Yoon, Keewon Kim, Marek Czosnyka, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://thejns.org/view/journals/j-neurosurg/124/2/article-p334.xml
+    display: Journal of Neurosurgery (2016)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Finite element analysis for normal pressure hydrocephalus: The effects of the integration of sulci"
+  image: finite.jpg
+  authors: Hakseung Kim, Dae-Hyeon Park, Seong Yi, Eun-Jin Jeong, Byung C. Yoon, Marek Czosnyka, Michael P.F. Sutcliffe, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1361841515000730
+    display: Medical Image Analysis (2015)
+  highlight: 1
+  news1: TOP 10%
+
+- title: "Cerebral critical closing pressure in hydrocephalus patients undertaking infusion tests"
+  image: finite.jpg
+  authors: Georgios V Varsos, Marek Czosnyka, Peter Smielewski, Matthew R Garnett, Xiuyun Liu, Dong-Joo Kim, Joseph Donnelly, Hadie Adams, John D Pickard, Zofia Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.tandfonline.com/doi/full/10.1179/1743132815Y.0000000044
+    display: Neurological Research (2015)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Porohyperelastic anatomical models for hydrocephalus and idiopathic intracranial hypertension"
+  image: finite.jpg
+  authors: Hakseung Kim, Byoung-Kyong Min, Dae-Hyeon Park, Stanley Hawi, Byung-Jo Kim, Zofia Czosnyka, Marek Czosnyka, Michael P F Sutcliffe, Dong-Joo Kim
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://thejns.org/view/journals/j-neurosurg/122/6/article-p1330.xml
+    display: Journal of Neurosurgery (2015)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Phase-shift between arterial flow and ICP pulse during infusion test"
+  image: finite.jpg
+  authors: Dong-Joo Kim, Marek Czosnyka, Hakseung Kim, Olivier Balédent, Piotr Smielewski, Matthew R Garnett, Zofia Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://link.springer.com/article/10.1007/s00701-015-2353-4
+    display: Acta Neurochirurgica (2015)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Cerebral Vasospasm Affects Arterial Critical Closing Pressure"
+  image: finite.jpg
+  authors: Georgios V Varsos, Karol P Budohoski, Marek Czosnyka, Angelos G Kolias, Nathalie Nasr, Joseph Donnelly, Xiuyun Liu, Dong-Joo Kim, Peter J Hutchinson, Peter J Kirkpatrick, Vassilis G Varsos, Peter Smielewski
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4814058/
+    display: Journal of Cerebral Blood Flow & Metabolism (2015)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Thresholds of resistance to CSF outflow in predicting shunt responsiveness"
+  image: qunatitative.jpg
+  authors: Dong-Joo Kim, Hakseung Kim, Young-Tak Kim, Byung C Yoon, Zofia Czosnyka, Kun-Woo Park, Marek Czosnyka 
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.tandfonline.com/doi/full/10.1179/1743132814Y.0000000454
+    display: Neurological Research (2015)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Quantitative analysis of computed tomography images and early detection of cerebral edema for pediatric traumatic brain injury patients: Retrospective study"
+  image: qunatitative.jpg
+  authors: Hakseung Kim, Gwang-dong Kim, Byung C Yoon, Keewon Kim, Byung-Jo Kim, Young Hun Choi, Marek Czosnyka, Byung-Mo Oh & Dong-Joo Kim 
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-014-0186-2
+    display: BMC Medicine (2014)
+  highlight: 1
+  news1: TOP 10%
+
+- title: "How does moderate hypocapnia affect cerebral autoregulation in response to changes in perfusion pressure in TBI patients?"
+  image: qunatitative.jpg
+  authors: Christina Haubrich, Luzius Steiner, Dong-Joo Kim, Magdalena Kasprowicz, Piotr Smielewski, Rolf R Diehl, John D Pickard, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/22327682/
+    display: Acta Neurochirurgica (2012)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Continuous Monitoring of the Monro-Kellie Doctrine: Is It Possible?"
+  image: qunatitative.jpg
+  authors: Dong-Joo Kim, Zofia Czosnyka, Magdalena Kasprowicz, Piotr Smieleweski, Oliver Baledent, Anne-Marie Guerguerian, John D. Pickard, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3335107/
+    display: Journal of Neurotrauma (2012)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Cerebral arterial compliance in patients with internal carotid artery disease"
+  image: qunatitative.jpg
+  authors: E Carrera, Dong-Joo Kim, G Castellani, C Zweifel, P Smielewski, J D Pickard, P J Kirkpatrick, M Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1111/j.1468-1331.2010.03247.x
+    display: European Journal of Neurology (2011)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Effect of Hyper- and Hypocapnia on Cerebral Arterial Compliance in Normal Subjects"
+  image: qunatitative.jpg
+  authors: Emmanuel Carrera, Dong-Joo Kim, Gianluca Castellani, Christian Zweifel, Peter Smielewski, John D Pickard, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1111/j.1552-6569.2009.00439.x
+    display: Journal of Neuroimaging (2011)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Evaluation of the cerebrovascular pressure reactivity index using non-invasive finapres arterial blood pressure"
+  image: qunatitative.jpg
+  authors: M Kasprowicz, E Schmidt, Dong-Joo Kim, C Haubrich, Z Czosnyka, P Smielewski, M Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://iopscience.iop.org/article/10.1088/0967-3334/31/9/011
+    display: Physiological Measurement (2010)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Cerebrospinal compensation of pulsating cerebral blood volume in hydrocephalus"
+  image: qunatitative.jpg
+  authors: Dong-Joo Kim, Emmanuel Carrera, Marek Czosnyka, Nicole Keong, Peter Smielewski, Oliveir Balédent, Michael P F Sutcliffe, John D Pickard, Zofia Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1179/174313209X455673
+    display: Neurological Research (2010)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Transient Changes in Brain Tissue Oxygen in Response to Modifications of Cerebral Perfusion Pressure: An Observational Study"
+  image: qunatitative.jpg
+  authors: Danila K Radolovich, Marek Czosnyka, Ivan Timofeev, Andrea Lavinio, Dong-Joo Kim, Matthias Jaeger, Peter Hutchinson, Arun Gupta, John D Pickard, Peter Smielewski
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://journals.lww.com/anesthesia-analgesia/Fulltext/2010/01000/Transient_Changes_in_Brain_Tissue_Oxygen_in.29.aspx
+    display: Anesthesia and Analgesia (2010)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "What Shapes Pulse Amplitude of Intracranial Pressure?"
+  image: qunatitative.jpg
+  authors: Emmanuel Carrera, Dong-Joo Kim, Gianluca Castellani, Christian Zweifel, Zofia Czosnyka, Magdalena Kasparowicz, Peter Smielewski, John D Pickard, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.liebertpub.com/doi/10.1089/neu.2009.0951?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+    display: Journal of Neurotrauma (2010)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "A comparison study of cerebral autoregulation assessed with transcranial Doppler and cortical laser Doppler flowmetry"
+  image: qunatitative.jpg
+  authors: Christian Zweifel, Marek Czosnyka, Andrea Lavinio, Gianluca Castellani, Dong-Joo Kim, Emmanuel Carrera, John D Pickard, Peter J Kirkpatrick, Peter Smielewski
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1179/174313209X459165
+    display: Neurological Research (2010)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "The monitoring of relative changes in compartmental compliances of brain"
+  image: qunatitative.jpg
+  authors: Dong-Joo Kim, Magdalena Kasprowicz, Emmanuel Carrera, Gianluca Castellani, Christian Zweifel, Andrea Lavinio, Peter Smielewski, Michael P F Sutcliffe, John D Pickard, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://iopscience.iop.org/article/10.1088/0967-3334/30/7/009
+    display: Physiological Measurement (2009)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Plateau Waves in Head Injured Patients Requiring Neurocritical Care"
+  image: qunatitative.jpg
+  authors: Gianluca Castellani, Christian Zweifel, Dong-Joo Kim, Emmanuel Carrera, Danila K Radolovich, Piotr Smielewski, Peter J Hutchinson, John D Pickard, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://link.springer.com/article/10.1007/s12028-009-9235-7
+    display: Neurocritical Care (2009)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Index of cerebrospinal compensatory reserve in hydrocephalus"
+  image: qunatitative.jpg
+  authors: Dong-Joo Kim, Zofia Czosnyka, Nicole Keong, Danila K Radolovich, Peter Smielewski, Michael P F Sutcliffe, John D Pickard, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://journals.lww.com/neurosurgery/Fulltext/2009/03000/INDEX_OF_CEREBROSPINAL_COMPENSATORY_RESERVE_IN.11.aspx
+    display: Neurosurgery (2009)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Critical Closing Pressure: Comparison of Three Methods"
+  image: qunatitative.jpg
+  authors: Jorge A López-Magaña, Hugh K Richards, Danila K Radolovich, Dong-Joo Kim, Peter Smielewski, Peter J Kirkpatrick, John D Pickard, Marek Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://journals.sagepub.com/doi/10.1038/jcbfm.2009.24?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+    display: Journal of Cerebral Blood Flow & Metabolism (2009)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Brain tissue oxygenation: more than a number"
+  image: qunatitative.jpg
+  authors: DK Radolovich, I Timofeev, A Lavinio, M Czosnyka, Dong-Joo Kim, P Hutchinson, J Pickard, P Smielewski
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4088480/
+    display: Critical Care (2008)
+  highlight: 0
+  news1: TOP 10%
+
+- title: "Pulse amplitude of intracranial pressure waveform in hydrocephalus"
+  image: qunatitative.jpg
+  authors: Z Czosnyka, N Keong, Dong-Joo Kim, D Radolovich, P Smielewski, A Lavinio, E A Schmidt, S Momjian, B Owler, J D Pickard, M Czosnyka
+  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/19388305/
+    display: Acta neurochirurgica (2008)
+  highlight: 0
+  news1: TOP 10%
+
+
+
+
+
+
+
