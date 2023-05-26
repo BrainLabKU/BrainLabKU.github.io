@@ -52,7 +52,7 @@ Brain Lab.은 [고려대학교 정보대학 뇌공학과](https://bce.korea.ac.k
 Brain Lab.에서는 생체신호 분석 인공지능, Brain-Computer Interface, 전자약과 관련된 다양한 국가 R&D 사업을 수행하고 있으며, 관련된 수많은 연구실적을 보유하고 있습니다. [(more info)]({{ site.url }}{{ site.baseurl }}/publications) 
 
 
-Addenbrroke's Hospital, 서울대학교 병원, 고려대학교 병원, 아주대 병원, 분당 차병원 등 다양한 의료 기관들과 협업하여 연구를 진행하고 있습니다. 이를 통해 실제 환자의 의료 데이터를 활용한 연구와 개발을 진행하고 있습니다.
+Addenbrooke's Hospital, 서울대학교 병원, 고려대학교 병원, 아주대 병원, 분당 차병원 등 다양한 의료 기관들과 협업하여 연구를 진행하고 있습니다. 이를 통해 실제 환자의 의료 데이터를 활용한 연구와 개발을 진행하고 있습니다.
 
  **Brain Lab.에서는 의료 데이터를 활용한 연구와 개발에 관심이 있거나 의료 AI 지식을 쌓고 싶으신 대학원생(석/박사) 및 학부 연구생을 모집하고 있습니다** [(more info)]({{ site.url }}{{ site.baseurl }}/contacts) **!**
 
