@@ -16,8 +16,8 @@ Brain Lab.은 [고려대학교 정보대학 뇌공학과](https://bce.korea.ac.k
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+        <!-- <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li> -->
     </ol>
 
     <!-- Items -->
@@ -37,12 +37,6 @@ Brain Lab.은 [고려대학교 정보대학 뇌공학과](https://bce.korea.ac.k
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Research_BCI_2.jpg" alt="Slide 4" />
         </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/학회준비.jpg" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2023학회.jpg" alt="Slide 6" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -60,7 +54,7 @@ Brain Lab.에서는 생체신호 분석 인공지능, Brain-Computer Interface, 
 
 Addenbrroke's Hospital, 서울대학교 병원, 고려대학교 병원, 아주대 병원, 분당 차병원 등 다양한 의료 기관들과 협업하여 연구를 진행하고 있습니다. 이를 통해 실제 환자의 의료 데이터를 활용한 연구와 개발을 진행하고 있습니다.
 
- **Brain Lab.에서는 의료 데이터를 활용한 연구와 개발에 관심이 있거나 의료 AI 지식을 쌓고 싶으신 대학원생(석/박사) 및 학부 연구생을 모집하고 있습니다** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **Brain Lab.에서는 의료 데이터를 활용한 연구와 개발에 관심이 있거나 의료 AI 지식을 쌓고 싶으신 대학원생(석/박사) 및 학부 연구생을 모집하고 있습니다** [(more info)]({{ site.url }}{{ site.baseurl }}/contacts) **!**
 
 <br>
 
