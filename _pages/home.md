@@ -62,6 +62,8 @@ Addenbrroke's Hospital, 서울대학교 병원, 고려대학교 병원, 아주�
 
  **Brain Lab.에서는 의료 데이터를 활용한 연구와 개발에 관심이 있거나 의료 AI 지식을 쌓고 싶으신 대학원생(석/박사) 및 학부 연구생을 모집하고 있습니다** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
+<br>
+
 <figure class="fourth" style="margin-left: 7%; margin-right: 7%">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/korea_university.jpg" style="width: 110px; padding-top:5px; margin-left: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brain lab.png" style="width: 110px; margin-left: 10px">
