@@ -11,7 +11,7 @@ permalink: /gallery/
 (Right-click *'view image'* to see a larger image.)
 
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+{% for pic in site.data.pictures %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
@@ -20,7 +20,10 @@ permalink: /gallery/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="https://storage.googleapis.com/homepage_static_files/gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left; height: 150px;" />
+<div style="text-align:center">
+<p>{{pic.title}}</p>
+</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
