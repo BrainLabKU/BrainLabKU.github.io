@@ -59,7 +59,7 @@
 
 
 - title: "Prediction of Life-Threatening Intracranial Hypertension During the Acute Phase of Traumatic Brain Injury Using Machine Learning"
-  image: hackjin.gif
+  image: hackjin.jpg
   # description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
   authors: Hack-Jin Lee, Hakseung Kim, Young-Tak Kim, Kanghee Won, Marek Czosnyka, Dong-Joo Kim
   link:
@@ -75,7 +75,7 @@
   # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250742
-    display:  PLoS ONE (2021)
+    display:  PLoS One (2021)
   highlight: 0
   # news1: Top 10%
 
@@ -108,12 +108,12 @@
 #   highlight: 0
 
 - title: "Brain-Controlled Robotic Arm System based on Multi-Directional CNN-BiLSTM Network using EEG Signals"
-  image: jihoon.gif
+  image: jihoon.jpg
   authors: Ji-Hoon Jeong, Kyung-Hwan Shim, Dong-Joo Kim, Seong-Whan Lee
   # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
     url: https://ieeexplore.ieee.org/document/9040397
-    display:  IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING (2020)
+    display:  IEEE Transactions on Neural Systems and Rehabilitation Engineering (2020)
   highlight: 1
   news1: TOP 10%
 
@@ -133,7 +133,7 @@
   # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
     url: https://thejns.org/view/journals/j-neurosurg/132/6/article-p1952.xml?tab_body=fulltext
-    display:  JOURNAL OF NEUROSURGERY (2019)
+    display:  Journal OF Neurosurgery (2019)
   highlight: 1
   news1: TOP 10%
 
@@ -143,7 +143,7 @@
   # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
     url: https://thejns.org/view/journals/j-neurosurg/131/6/article-p1887.xml?tab_body=fulltext
-    display:  JOURNAL OF NEUROSURGERY (2018)
+    display:  Journal OF Neurosurgery (2018)
   highlight: 1
   news1: TOP 10%
 
@@ -163,7 +163,7 @@
   # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
     url: https://thejns.org/view/journals/j-neurosurg/131/4/article-p1243.xml
-    display:  JOURNAL OF NEUROSURGERY (2018)
+    display:  Journal OF Neurosurgery (2018)
   highlight: 1
   news1: TOP 10%
 
@@ -263,7 +263,7 @@
   # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
     url: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002348
-    display: PLoS MEDICINE (2017)
+    display: PLoS Medicine (2017)
   highlight: 1
   news1: TOP 10%
 

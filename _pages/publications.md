@@ -53,6 +53,19 @@ permalink: /publications/
 
 <br>
 
+## Full List of publications
+
+<hr>
+
+{% for publi in site.data.publist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+<br>
+
 ## Patents
 <hr>
 
@@ -69,18 +82,5 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   <em>{{ publi.number }}</em>
-
-{% endfor %}
-
-<br>
-
-## Full List of publications
-
-<hr>
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
