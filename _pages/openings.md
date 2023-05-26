@@ -26,6 +26,3 @@ permalink: /contacts
 - irene2448@korea.ac.kr로 자유양식의 이력서를 제출하여 지원
 - 서류 평가 후 개별 면접 진행
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/together.jpg" width="95%">
-</figure>
