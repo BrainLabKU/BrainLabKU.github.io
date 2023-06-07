@@ -16,7 +16,7 @@ Brain Lab.은 [고려대학교 정보대학 뇌공학과](https://bce.korea.ac.k
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
+        <!-- <li data-target="#carousel" data-slide-to="5"></li> -->
         <!-- <li data-target="#carousel" data-slide-to="6"></li> -->
     </ol>
 
@@ -33,9 +33,6 @@ Brain Lab.은 [고려대학교 정보대학 뇌공학과](https://bce.korea.ac.k
         </div>
         <div class="item">
             <img src="https://storage.googleapis.com/homepage_static_files/%EC%83%9D%EC%B2%B4%EC%8B%A0%ED%98%B8.gif" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="https://storage.googleapis.com/homepage_static_files/hyungwoo.gif" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Research_BCI_2.jpg" alt="Slide 5" />
