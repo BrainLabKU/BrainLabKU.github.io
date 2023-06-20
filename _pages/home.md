@@ -22,21 +22,22 @@ Brain Lab.은 [고려대학교 정보대학 뇌공학과](https://bce.korea.ac.k
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active" >
-            <img src="https://storage.googleapis.com/homepage_static_files/AR-robot-arm-2.gif" alt="Slide 0" />
+        <div class="item active">
+            <img src="https://storage.googleapis.com/homepage_static_files/%EA%B5%90%EC%88%98%EB%8B%98%EC%B5%9C%EA%B3%A0.gif" alt="Slide 0" />
+        </div>  
+        <div class="item" >
+            <img src="https://storage.googleapis.com/homepage_static_files/AR-robot-arm-2.gif" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="https://storage.googleapis.com/homepage_static_files/robot%20arm.gif" alt="Slide 1" />
+            <img src="https://storage.googleapis.com/homepage_static_files/robot%20arm.gif" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="https://storage.googleapis.com/homepage_static_files/algorithm.gif" alt="Slide 2" />
+            <img src="https://storage.googleapis.com/homepage_static_files/algorithm.gif" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="https://storage.googleapis.com/homepage_static_files/%EC%83%9D%EC%B2%B4%EC%8B%A0%ED%98%B8.gif" alt="Slide 3" />
+            <img src="https://storage.googleapis.com/homepage_static_files/%EC%83%9D%EC%B2%B4%EC%8B%A0%ED%98%B8.gif" alt="Slide 4" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Research_BCI_2.jpg" alt="Slide 4" />
-        </div>       
+     
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -55,6 +56,9 @@ Brain Lab.에서는 생체신호 분석 인공지능, Brain-Computer Interface, 
 Addenbrooke's Hospital, 서울대학교 병원, 고려대학교 병원, 아주대 병원, 분당 차병원 등 다양한 의료 기관들과 협업하여 연구를 진행하고 있습니다. 이를 통해 실제 환자의 의료 데이터를 활용한 연구와 개발을 진행하고 있습니다.
 
  **Brain Lab.에서는 의료 데이터를 활용한 연구와 개발에 관심이 있거나 의료 AI 지식을 쌓고 싶으신 대학원생(석/박사) 및 학부 연구생을 모집하고 있습니다** [(more info)]({{ site.url }}{{ site.baseurl }}/contacts) **!**
+
+
+<!-- <iframe width="100%" height="600px" src="https://www.youtube.com/embed/pHnTIl54vC8?controls=0&start=120&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 <br>
 
