@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Brain Lab.은 [고려대학교 정보대학 뇌공학과](https://bce.korea.ac.kr/) 소속 연구실로, 뇌공학 분야 세계 최고 수준의 연구를 진행하고 있습니다. 전자약 (Electroceutical), Brain-Computer Interface (BCI), 생체신호 및 의료 영상 기반 의료 인공지능 등 다양한 분야에서 연구를 진행하고 있으며 최상위권 저널에 논문을 게재하고 있습니다.
+Brain Lab.은 [고려대학교 정보대학 뇌공학과](https://bce.korea.ac.kr/) 소속 [김동주 교수님](https://brainlabku.github.io/professor) 연구실로, 뇌공학 분야 세계 최고 수준의 연구를 진행하고 있습니다. 전자약 (Electroceutical), Brain-Computer Interface (BCI), 생체신호 및 의료 영상 기반 의료 인공지능 등 다양한 분야에서 연구를 진행하고 있으며 최상위권 저널에 논문을 게재하고 있습니다.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
