@@ -247,15 +247,15 @@
   highlight: 1
   news1: TOP 10%
 
-- title: "Abilities of a Densitometric Analysis of Computed Tomography Images and Hemorrhagic Parameters to Predict Outcome Favorability in Patients With Intracerebral Hemorrhage"
-  image: abilites.jpeg
-  authors: Hakseung Kim, Xiaoke Yang, Young Hun Choi, Byung C Yoon, Keewon Kim, Dong-Joo Kim
-  # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
-  link:
-    url: https://journals.lww.com/neurosurgery/Fulltext/2018/08000/Abilities_of_a_Densitometric_Analysis_of_Computed.9.aspx
-    display: Neurosurgery (2018)
-  highlight: 1
-  news1: TOP 10%
+# - title: "Abilities of a Densitometric Analysis of Computed Tomography Images and Hemorrhagic Parameters to Predict Outcome Favorability in Patients With Intracerebral Hemorrhage"
+#   image: abilites.jpeg
+#   authors: Hakseung Kim, Xiaoke Yang, Young Hun Choi, Byung C Yoon, Keewon Kim, Dong-Joo Kim
+#   # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+#   link:
+#     url: https://journals.lww.com/neurosurgery/Fulltext/2018/08000/Abilities_of_a_Densitometric_Analysis_of_Computed.9.aspx
+#     display: Neurosurgery (2018)
+#   highlight: 1
+#   news1: TOP 10%
 
 - title: "An Association Between ICP-Derived Data and Outcome in TBI Patients: The Role of Sample Size"
   image: hemodynamic.jpeg
