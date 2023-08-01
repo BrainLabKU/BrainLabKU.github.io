@@ -317,8 +317,8 @@ permalink: /members/
   
   <div markdown="0" style="padding-top:16px; justify-content:center; align-items:center">
     <span style="font-style:italic; font-size:14px"><b>{{ member.info }}</b><br></span>
-    <span><b>Call</b>: 02-3290-3847<br></span>
-    <span><b>Office</b>: Science Library 619<br></span>
+    <span><b>Call</b>: 02-3290-3617<br></span>
+    <span><b>Office</b>: R&D Centre 132B <br></span>
   </div> 
 </div>
 

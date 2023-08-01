@@ -202,7 +202,7 @@
   authors: Yunsik Son, Seung-Bo Lee, Hakseung Kim, Eun-Suk Song, Hyub Huh, Marek Czosnyka, Dong-Joo Kim
   # description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: https://link.springer.com/article/10.1007/s00701-018-3497-9
+    url: https://www.sciencedirect.com/science/article/pii/S0020025518303736
     display: Information Sciences (2018)
   highlight: 1
   news1: TOP 10%
