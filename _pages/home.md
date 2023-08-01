@@ -8,6 +8,103 @@ permalink: /
 
 Brain Lab.은 [고려대학교 정보대학 뇌공학과](https://bce.korea.ac.kr/) 소속 [김동주 교수님](https://brainlabku.github.io/professor) 연구실로, 뇌공학 분야 세계 최고 수준의 연구를 진행하고 있습니다. 전자약 (Electroceutical), Brain-Computer Interface (BCI), 생체신호 및 의료 영상 기반 의료 인공지능 등 다양한 분야에서 연구를 진행하고 있으며 최상위권 저널에 논문을 게재하고 있습니다.
 
+<div markdown="0" id = "modal">
+  <div class="modal-content">
+    <span class="close-btn" id="close-modal-btn">&times;</span>
+    <h2>연구 참가자 모집 공고</h2>
+    <br>
+    <p>㈜뉴로티엑스에서 ‘수면건강 관리 웰니스 기기: SleepAid Plus – <b><u>단기 사용성 평가 연구</u></b>’에 참여하실 연구대상자를 모집합니다</p>
+    <p>위 실험은 SleepAid Plus의 수면 건강관리 효능을 정량적으로 파악하기 위해 연구 참가자분들의 수면 데이터 (EEG, ECG) 를 수집하고 분석하는 것을 목표로 합니다.</p>
+    <p>아래 자격요건을 충족시키는 분들 중 실험 참가가 가능하신 분들의 많은 협조를 부탁드립니다.</p>
+    <p>실험 참가자들에게는 참가여비가 지급됩니다.</p>
+    <p> ⋁ 지원요건 </p>
+    <p>&emsp;&emsp;<b><u>평소 수면에 어려움</u></b>을 겪고 있는 만 20-65세 사이 성인 남녀</p>
+    <p>&emsp;&emsp;심혈관 질환, 당뇨병, 고혈압의 병력이 <b><u>없는 분</u></b></p>
+    <p>&emsp;&emsp;알코올 의존 등 물질 사용 장애(흡연 제외)가 <b><u>없는 분</u></b></p>
+    <p> ⋁ 실험일자 및 장소 </p>
+    <p>&emsp;&emsp;실험 날짜 및 시간: 실험 시간은 신청서 작성 시 표기 <b><u>8월 셋째 주부터 진행 예정</u></b></p>
+    <p>&emsp;&emsp;실험 예상 시간: 약 2시간 소요 (준비시간 포함)</p>
+    <p>&emsp;&emsp;실험장소: 고려대학교 산학관 312-2호 NeuroTx (서울 성북구 안암로 73-15) </p>
+    <p> ⋁ 실험방법 </p>
+    <p>&emsp;&emsp;(1) 실험실 방문</p>
+    <p>&emsp;&emsp;(2) 뇌파+심전도 기기, SleepAid Plus 기기 착용</p>
+    <p>&emsp;&emsp;(3) 수면 실험 (약 1시간)</p>
+    <p>&emsp;&emsp;(4) 사용성 평가 설문지 작성</p>
+    <p>*뇌파 기기의 경우, 반건조 뇌파 기기를 사용하여 젤을 사용하지 않고 식염수를 사용하기 때문에 실험 후 머리를 감으실 필요가 없습니다.</p>
+    <p>*SleepAid Plus기기는 미세전류를 활용한 뇌활성화를 유도하여 수면 건강을 관리하는 웰니스 기기로 안전성 시험 적합성 획득 및 IRB 승인을 확보하였습니다. </p>
+    <p> ⋁ 참가여비 </p>
+    <p>&emsp;&emsp;단기 사용성 평가 실험 : <b><u>30,000원</u></b> </p>
+    <p> ⋁ 지원방법 </p>
+    <p>&emsp;&emsp;해당 링크로<a href = "https://forms.gle/bRSZGDbBwpSogCBD7">( https://forms.gle/bRSZGDbBwpSogCBD7 )</a>으로 신청바랍니다.(상시모집)</p>
+    <p>&emsp;&emsp;신청서의 설문 지표 점수에 따라 실험참가에 제한이 있을 수 있습니다.</p>
+    <p>&emsp;&emsp;본 연구는 단기 실험 (1회) / 장기 실험 (약 5주) 중 <b><u>택 1</u></b>하여 선택할 수 있습니다.</p>
+    <br>
+    <p>담당자 : 뉴로티엑스 김고은 (02-3290-3900)</p>
+  </div>
+</div>
+
+<div markdown="0" id = "modal2">
+  <div class="modal-content">
+    <span class="close-btn2" id="close-modal-btn2">&times;</span>
+    <h2>연구 참가자 모집 공고</h2>
+    <br>
+    <p>㈜뉴로티엑스에서 ‘수면건강 관리 웰니스 기기: SleepAid Plus – 장기 사용성 평가 연구’에 참여하실 연구대상자를 모집합니다</p>
+    <p>위 실험은 SleepAid Plus의 수면 건강관리 효능을 정량적으로 파악하기 위해 연구 참가자분들의 수면 데이터 (EEG, ECG) 를 수집하고 분석하는 것을 목표로 합니다.</p>
+    <p>아래 자격요건을 충족시키는 분들 중 실험 참가가 가능하신 분들의 많은 협조를 부탁드립니다.</p>
+    <p>실험 참가자들에게는 참가여비가 지급됩니다.</p>
+    <p> ⋁ 지원요건 </p>
+    <p>&emsp;&emsp;5주간 성실히 연구에 참여할 수 있는 사람</p>
+    <p>&emsp;&emsp;<b><u>평소 수면에 어려움</u></b>을 겪고 있는 만 20-65세 사이 성인 남녀</p>
+    <p>&emsp;&emsp;심혈관 질환, 당뇨병, 고혈압의 병력이 <b><u>없는 분</u></b></p>
+    <p>&emsp;&emsp;알코올 의존 등 물질 사용 장애(흡연 제외)가 <b><u>없는 분</u></b></p>
+    <p> ⋁ 실험방법 </p>
+    <p>&emsp;&emsp;&emsp;&emsp;<b><u>5주간 주 4회 입면 전 SleepAid Plus 기기 사용 + 3회 방문</u></b></p>
+    <p>&emsp;&emsp;(1) 실험실 방문 – SleepAid Plus 기기 대여 / <b><u>방문 실험 1회차</u></b> (1주차)</p>
+    <p>&emsp;&emsp;(2) 5주간 주 4회, 입면 전 20분간 SleepAid Plus 기기 사용</p>
+    <p>&emsp;&emsp;(3) 실험실 방문 – SleepAid Plus 기기 반납 / <b><u>방문 실험 2회차</u></b> (5주차)</p>
+    <p>&emsp;&emsp;(4) 실험실 방문 – <b><u>방문 실험 3회차</u></b> / 사용성 평가 설문지 작성 (7주차)</p>
+    <p>*뇌파 기기의 경우, 반건조 뇌파 기기를 사용하여 젤을 사용하지 않고 식염수를 사용하기 때문에 실험 후 머리를 감으실 필요가 없습니다.</p>
+    <p>*SleepAid Plus기기는 미세전류를 활용한 뇌활성화를 유도하여 수면 건강을 관리하는 웰니스 기기로 안전성 시험 적합성 획득 및 IRB 승인을 확보하였습니다. </p>
+    <p><b><u>*실험에 성실히 임하지 않는 경우 (2일 연속 기기를 사용하지 않는 경우)</u></b>, 실험이 조기종료되며 <b><u>참가여비 역시 지급되지 않으니</u></b> 이 점 유의하시기 바랍니다. </p>
+    <p> ⋁ 참가여비 </p>
+    <p>&emsp;&emsp;장기 사용성 평가 실험 : <b><u>400,000원</u></b> </p>
+    <p>&emsp;&emsp;참가여비는 모든 실험이 종료된 후 (7주차, 방문실험 3회차 이후) 지급됩니다.</p>
+    <p>&emsp;&emsp;<b><u>2일 연속 기기 사용하지 않는 경우, 실험이 조기종료되며</u></b> 참가여비가 지급되지 않습니다. </p>
+    <p> ⋁ 지원방법 </p>
+    <p>&emsp;&emsp;해당 링크로<a href = "https://forms.gle/bRSZGDbBwpSogCBD7">( https://forms.gle/bRSZGDbBwpSogCBD7 )</a>으로 신청바랍니다.(상시모집)</p>
+    <p>&emsp;&emsp;신청서의 설문 지표 점수에 따라 실험참가에 제한이 있을 수 있습니다.</p>
+    <p>&emsp;&emsp;본 연구는 단기 실험 (1회) / 장기 실험 (약 5주) 중 <b><u>택 1</u></b>하여 선택할 수 있습니다.</p>
+    <br>
+    <p>담당자 : 뉴로티엑스 김고은 (02-3290-3900)</p>
+  </div>
+</div>
+
+<script>
+  $(document).ready(function() {
+    document.getElementById('modal').style.display = 'block'; // 모달 보이기
+    document.getElementById('modal2').style.display = 'block'; // 모달 보이기
+  });
+
+  // 모달 닫기 버튼 클릭 시
+  document.getElementById('close-modal-btn').onclick = function() {
+    document.getElementById('modal').style.display = 'none'; // 모달 숨기기
+  }
+
+  document.getElementById('close-modal-btn2').onclick = function() {
+    document.getElementById('modal2').style.display = 'none'; // 모달 숨기기
+  }
+
+  // 모달 외부 클릭 시 모달 닫기
+  window.onclick = function(event) {
+    if (event.target == document.getElementById('modal')) {
+      document.getElementById('modal').style.display = 'none'; // 모달 숨기기
+    }
+    if (event.target == document.getElementById('modal2')) {
+      document.getElementById('modal2').style.display = 'none'; // 모달 숨기기
+    }
+  }
+</script>
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">

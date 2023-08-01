@@ -3,6 +3,58 @@
     
 @import "bootstrap";
 
+/* 모달 스타일 */
+#modal {
+	display: none; /* 처음에는 숨겨진 상태로 설정 */
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	// background-color: rgba(0, 0, 0, 0.5); /* 배경 불투명도 조절 */
+	z-index: 9999;
+	overflow-y: scroll; /* 세로 스크롤 적용 */
+}
+
+#modal2 {
+	display: none; /* 처음에는 숨겨진 상태로 설정 */
+	position: fixed;
+	top: 0;
+	left: 800px;
+	width: 100%;
+	height: 100%;
+	// background-color: rgba(0, 0, 0, 0.5); /* 배경 불투명도 조절 */
+	z-index: 9999;
+	overflow-y: scroll; /* 세로 스크롤 적용 */
+}
+  
+  /* 모달 내용 스타일 */
+  .modal-content {
+	position: relative;
+	top: 0;
+	left: 5%;
+	// transform: translate(-50%, -50%);
+	background-color: white;
+	padding: 10px;
+	width: 700px;
+	height: 1100px;
+  }
+  
+  /* 닫기 버튼 스타일 */
+  .close-btn {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	cursor: pointer;
+  }
+
+  .close-btn2 {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	cursor: pointer;
+  }
+
 img { margin-bottom: 24px; 
      margin-top: 17px; 
     border-radius:2%;
