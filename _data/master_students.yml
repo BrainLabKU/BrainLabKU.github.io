@@ -1,11 +1,3 @@
-- name: Joung-Woo Hyung (형정우)
-  photo: hyungwoo.jpg
-  email: gudwjddn@korea.ac.kr
-  number_educ: 3
-  education1: Machine learning
-  education2: Brain-computer interface
-  education3: Augmented-Reality
-
 - name: Seung-Hoon Yang (양승훈)
   photo: seunghoon.jpg
   info: Medical Doctor, Neurosurgery Department, Hwaseong Central Hospital
@@ -14,14 +6,6 @@
   education1: Machine learning
   education2: Brain-computer interface
   education3: Neuro-physiological signal processing
-
-- name: Tae-Sung Han (한태성)
-  photo: taesung.png
-  email: 2022010620@korea.ac.kr
-  number_educ: 3
-  education1: Brain-computer interface
-  education2: Deep learning
-  education3: Neuroimaging analysis
 
 - name: Dong-Young Kim (김동영)
   photo: dongyoung.jpg
@@ -38,14 +22,6 @@
   education1: Brain-machine interface
   education2: Deep learning
   education3: Brain signal processing and analysis
-
-- name: Donghyeok Jo (조동혁)
-  photo: donghyeok.png
-  email: joeastgur@korea.ac.kr
-  number_educ: 3
-  education1: Brain-computer interface
-  education2: Deep learning
-  education3: Brain signal/image processing
 
 - name: MinJu Kim (김민주)
   photo: minju.png

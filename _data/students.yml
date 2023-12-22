@@ -47,13 +47,13 @@
   education2: Deep learning
   education3: Brain-machine interface
 
-# - name: Min-Kyung Jung (정민경)
-#   photo: minkyung.jpg
-#   email: mkjung@korea.ac.kr
-#   number_educ: 3
-#   education1: Biomedical engineering
-#   education2: Explainable artificial intelligence
-#   education3: Neurointensive care
+- name: Min-Kyung Jung (정민경)
+  photo: minkyung.jpg
+  email: mkjung@korea.ac.kr
+  number_educ: 3
+  education1: Biomedical engineering
+  education2: Explainable artificial intelligence
+  education3: Neurointensive care
 
 - name: Cheol-Hui Lee (이철희)
   photo: chulhee.jpg
@@ -70,6 +70,30 @@
   education1: Machine learning
   education2: Brain-computer interface
   education3: Brain signal processing
+
+- name: Joung-Woo Hyung (형정우)
+  photo: hyungwoo.jpg
+  email: gudwjddn@korea.ac.kr
+  number_educ: 3
+  education1: Machine learning
+  education2: Brain-computer interface
+  education3: Augmented-Reality
+
+- name: Tae-Sung Han (한태성)
+  photo: taesung.png
+  email: 2022010620@korea.ac.kr
+  number_educ: 3
+  education1: Brain-computer interface
+  education2: Deep learning
+  education3: Neuroimaging analysis
+
+- name: Donghyeok Jo (조동혁)
+  photo: donghyeok.png
+  email: joeastgur@korea.ac.kr
+  number_educ: 3
+  education1: Brain signal/image processing
+  education2: Deep learning
+  education3: Brain-computer interface
 
 - name: Who's next?
   photo: wewantyou.png
