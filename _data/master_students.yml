@@ -7,22 +7,6 @@
   education2: Brain-computer interface
   education3: Neuro-physiological signal processing
 
-- name: Dong-Young Kim (김동영)
-  photo: dongyoung.jpg
-  email: nonlunch@korea.ac.kr
-  number_educ: 3
-  education1: Brain-machine interface
-  education2: Brain signal processing
-  education3: Information theory
-
-- name: Jun-Su Park (박준수)
-  photo: junsu.jpg
-  email: junsupark0213@korea.ac.kr
-  number_educ: 3
-  education1: Brain-machine interface
-  education2: Deep learning
-  education3: Brain signal processing and analysis
-
 - name: MinJu Kim (김민주)
   photo: minju.png
   email: irene2448@korea.ac.kr

@@ -1,7 +1,7 @@
 - name: Dong-Kyu Kim (김동규)
   photo: dongkyu.jpg
   info: Research Engineer, Asan Institute for Life Sciences, Seoul Asan Medical Center
-  email: dein200318@korea.ac.kr
+  email: dien200318@korea.ac.kr
   number_educ: 3
   education1: Machine learning
   education2: Medical artificial intelligence
@@ -24,3 +24,22 @@
   education1: Biomedical engineering
   education2: Explainable artificial intelligence
   education3: Neurointensive care
+
+- name: Dong-Young Kim (김동영)
+  photo: dongyoung.jpg
+  info: Developer, LG OS Team
+  email: nonlunch@korea.ac.kr
+  number_educ: 3
+  education1: Brain-machine interface
+  education2: Brain signal processing
+  education3: Information theory
+
+
+- name: Jun-Su Park (박준수)
+  photo: junsu.jpg
+  email: junsupark0213@korea.ac.kr
+  info: Contact Please..
+  number_educ: 3
+  education1: Brain-machine interface
+  education2: Deep learning
+  education3: Brain signal processing and analysis
