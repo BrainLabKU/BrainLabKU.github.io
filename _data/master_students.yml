@@ -1,11 +1,11 @@
-- name: Seung-Hoon Yang (양승훈)
-  photo: seunghoon.jpg
-  info: Medical Doctor, Neurosurgery Department, Hwaseong Central Hospital
-  email: gorillafamil@naver.com
-  number_educ: 3
-  education1: Machine learning
-  education2: Brain-computer interface
-  education3: Neuro-physiological signal processing
+# - name: Seung-Hoon Yang (양승훈)
+#   photo: seunghoon.jpg
+#   info: Medical Doctor, Neurosurgery Department, Hwaseong Central Hospital
+#   email: gorillafamil@naver.com
+#   number_educ: 3
+#   education1: Machine learning
+#   education2: Brain-computer interface
+#   education3: Neuro-physiological signal processing
 
 - name: MinJu Kim (김민주)
   photo: minju.png
