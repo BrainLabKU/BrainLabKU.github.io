@@ -24,3 +24,12 @@
   education1: Motor imagery classification
   education2: Neuro-physiological signal processing
   education3: Machine learning for health informatics
+
+- name: Se-Ho Lee (이세호)
+  photo: seho.png
+  info: Research Professor, Korea University
+  email: louislee6111@korea.ac.kr
+  number_educ: 3
+  education1: Brain-computer interface
+  education2: Brain signal processing
+  education3: Machine learning for health information

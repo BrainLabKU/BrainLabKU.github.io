@@ -23,13 +23,13 @@
   education2: Theory of computation and algorithm
   education3: Machine learning
 
-- name: Se-Ho Lee (이세호)
-  photo: seho.png
-  email: louislee6111@korea.ac.kr
-  number_educ: 3
-  education1: Brain-computer interface
-  education2: Brain signal processing
-  education3: Machine learning for health information
+# - name: Se-Ho Lee (이세호)
+#   photo: seho.png
+#   email: louislee6111@korea.ac.kr
+#   number_educ: 3
+#   education1: Brain-computer interface
+#   education2: Brain signal processing
+#   education3: Machine learning for health information
 
 - name: Jin-Hyung Kim (김진형)
   photo: jinhyeong.jpg
