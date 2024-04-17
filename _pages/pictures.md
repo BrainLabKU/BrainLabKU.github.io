@@ -8,7 +8,7 @@ permalink: /gallery/
 # Gallery
 
 <hr>
-(Right-click *'view image'* to see a larger image.)
+(Right-click *'Open Image in a New Tab'* to see a larger image.)
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
