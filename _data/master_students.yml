@@ -47,6 +47,14 @@
   education2: Bioinformatics/data analysis
   education3: System biology
 
+- name: Sin-Yeol Ma (마신열)
+  photo: sinyeol.jpg
+  email: masinyeol@gmail.com
+  number_educ: 3
+  education1: Deep learning
+  education2: Machine learning
+  education3: Brain imaging analysis
+
 - name: Who's next?
   photo: wewantyou.png
   email: <a href='/contacts'>Contacts</a>
