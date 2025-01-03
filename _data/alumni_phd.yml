@@ -25,6 +25,15 @@
   education2: Neuro-physiological signal processing
   education3: Machine learning for health informatics
 
+# - name: Young-Tak Kim (김영탁)
+#   photo: ytkim.jpg
+#   info: Research Fellow, Harvard University
+#   email: koreateam23@koreauniversity.info
+#   number_educ: 3
+#   education1: Clinical decision support system for TBI management
+#   education2: AI-based neurocritical care
+#   education3: Cerebrospinal fluid dynamics
+
 # - name: Se-Ho Lee (이세호)
 #   photo: seho.png
 #   info: Research Professor, Korea University

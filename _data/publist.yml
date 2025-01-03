@@ -1,3 +1,35 @@
+- title: "NeuroXAI: Adaptive, robust, explainable surrogate framework for determination of channel importance in EEG application"
+  image: neuroxai.jpg
+  # description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: Choel-Hui Lee, Daesun Ahn, Hakseung Kim, Eun Jin Ha, Jung-Bin Kim, Dong-Joo Kim
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0957417424022310
+    display:  EXPERT SYSTEMS WITH APPLICATIONS (2025)
+  highlight: 1
+  news1: Top 10%
+
+- title: "Hyperosmolar therapy response in traumatic brain injury: Explainable artificial intelligence based long-term time series forecasting approach"
+  image: tbi.jpg
+  # description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: Min-Kyung Jung, Tae Hoon Roh, Hakseung Kim, Eun Jin Ha, Dukyong Yoon, Chan Min Park, Se-Hyuk Kim, Namkyu You, Dong-Joo Kim
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0957417424016622
+    display:  EXPERT SYSTEMS WITH APPLICATIONS (2024)
+  highlight: 1
+  news1: Top 10%
+
+
+- title: "Negative-Sample-Free Contrastive Self-Supervised Learning for Electroencephalogram-Based Motor Imagery Classification"
+  image: 
+  # description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: In-Nea Wang, Choel-Hui Lee, Hakseung Kim, Dong-Joo Kim
+  link:
+    url: https://ieeexplore.ieee.org/document/10680037
+    display:  IEEE ACCESS (2024)
+  highlight: 0
+  news1: 
+
+
 - title: "Effects of altered functional connectivity on motor imagery brain–computer interfaces based on the laterality of paralysis in hemiplegia patients"
   image: seho.png
   # description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
