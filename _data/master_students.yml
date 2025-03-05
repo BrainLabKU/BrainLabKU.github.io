@@ -71,6 +71,15 @@
   education2: Brain-Computer Interface
   education3: Medical image analysis
 
+- name: Chae-Eun Yoon (윤채은)
+  photo: chaeeun.jpg
+  email: cxeni55@korea.ac.kr
+  number_educ: 3
+  education1: Brain-computer interface
+  education2: Neuropsychiatric Disorders
+  education3: Brain signal/image processing
+
+
 - name: Who's next?
   photo: wewantyou.png
   email: <a href='/contacts'>Contacts</a>
