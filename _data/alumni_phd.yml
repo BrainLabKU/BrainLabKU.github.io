@@ -25,6 +25,15 @@
   education2: Neuro-physiological signal processing
   education3: Machine learning for health informatics
 
+- name: In-Nea Wang (왕인내)
+  photo: innea.jpg
+  info: Research Professor, Dongguk University
+  email: innea@korea.ac.kr
+  number_educ: 3
+  education1: Medical image analysis
+  education2: Theory of computation and algorithm
+  education3: Machine learning
+
 # - name: Young-Tak Kim (김영탁)
 #   photo: ytkim.jpg
 #   info: Research Fellow, Harvard University
