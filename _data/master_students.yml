@@ -63,6 +63,14 @@
   education2: Brain-computer interface
   education3: Bioinformatics/data analysis 
 
+- name: Jeong-Yun Cha (차정윤)
+  photo: jeongyun.jpg
+  email: chajy1212@korea.ac.kr
+  number_educ: 3
+  education1: Machine/Deep learning
+  education2: Brain-Computer Interface
+  education3: Medical image analysis
+
 - name: Who's next?
   photo: wewantyou.png
   email: <a href='/contacts'>Contacts</a>
