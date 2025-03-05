@@ -15,13 +15,13 @@
   education2: Brain-computer interface
   education3: Brain image processing
 
-- name: Kyung Ah Kim (김경아)
-  photo: kyeonga.jpg
-  email: danslavie0915@korea.ac.kr
-  number_educ: 3
-  education1: Medical artificial intelligence
-  education2: Neurological disorder
-  education3: Neuro-physical signal processing
+# - name: Kyung Ah Kim (김경아)
+#   photo: kyeonga.jpg
+#   email: danslavie0915@korea.ac.kr
+#   number_educ: 3
+#   education1: Medical artificial intelligence
+#   education2: Neurological disorder
+#   education3: Neuro-physical signal processing
 
 - name: Hwa-Yeon Lee (이화연)
   photo: lhy.jpg
