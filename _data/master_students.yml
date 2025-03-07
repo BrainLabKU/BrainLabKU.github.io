@@ -55,6 +55,14 @@
   education2: Machine learning
   education3: Brain imaging analysis
 
+- name: Min-Seok Choi (최민석)
+  photo: minseok.jpg
+  email: trueface100@korea.ac.kr
+  number_educ: 3
+  education1: Deep learning
+  education2: Medical artificial intelligence
+  education3: Medical image processing
+
 - name: Yun Jeong Choi (최윤정)
   photo: yoonjung.jpg
   email: chldbswjd25@korea.ac.kr
@@ -86,15 +94,6 @@
   education1: Machine/Deep learning
   education2: Multimodal model
   education3: Brain-computer interface
-
-- name: Min-Seok Choi (최민석)
-  photo: minseok.jpg
-  email: trueface100@korea.ac.kr
-  number_educ: 3
-  education1: Deep learning
-  education2: Medical artificial intelligence
-  education3: Medical image processing
-
 
 - name: Who's next?
   photo: wewantyou.png
