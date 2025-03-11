@@ -51,6 +51,7 @@ Department: Brain and Cognitive Engineering
 - **2004 - 2005** : Joint Research Assistant, University of London, U.K and Johnson & Johnson PLC (Depuy Dept.) 
 
 ## Grant Funding
+- **2022.03~2027.02** : •	Principal Investigator, “Development of system integrated solution for universal brain-computer interface based on self-supervised learning” supported by <b> Ministry of Science and ICT, MSIT</b>
 - **2021.04~2023.12** : Collaborator, “Development of cognitive enhancement solution based on neurofeedback and vagus nerve stimulation for elderly patients with mild cognitive impairment”, supported by <b>the Ministry of Health and Welfare</b> 
 - **2020.08~2022.07** : Principal Investigator, “Development of artificial intelligence-based digital therapeutics for autonomic nervous system stabilization”, supported by <b>the ministry of SMEs and startups (Tech Incubator Program (TIPS) for startup Korea)</b> 
 - **2020.04~2024.12** : Collaborator, “Development of muscular function management solution based on electronic skin with EMG IMU and strain sensor”, supported by <b>the Korea government (Ministry of Trade, Industry and Energy)</b> 
@@ -75,6 +76,7 @@ Department: Brain and Cognitive Engineering
 - **2012** : IEEE Systems, Mans and Cybernetics
 
 ## Professional Membership
+- **2023–Now** : The Associate Editor, Frontiers in Neurorobotics
 - **2020-Now** : Executive Director of the Korean Neurotraumatology Society
 - **2020-Now** : Special Issue Editor, Electronics
 - **2017-Now** : Special Director of the Korean Society for Pediatric Neurosurgery
