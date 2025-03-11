@@ -7,13 +7,13 @@
   education2: Precision medicine using machine learning
   education3: Neuromonitoring
 
-- name: Jeongjun Park (박정준)
-  photo: jeongjun.jpg
-  info: Assistant Professor, Department of Anesthesiology and Pain Medicine, CHA Bundang Medical Center, CHA University School of Medicine
-  email: jeongjun.park@cha.ac.kr
-  number_educ: 2
-  education1: Continous vital signal analysis
-  education2: Sedation level monitoring
+# - name: Jeongjun Park (박정준)
+#   photo: jeongjun.jpg
+#   info: Assistant Professor, Department of Anesthesiology and Pain Medicine, CHA Bundang Medical Center, CHA University School of Medicine
+#   email: jeongjun.park@cha.ac.kr
+#   number_educ: 2
+#   education1: Continous vital signal analysis
+#   education2: Sedation level monitoring
 
 # - name: In-Nea Wang (왕인내)
 #   photo: innea.jpg

@@ -34,6 +34,14 @@
   education2: Theory of computation and algorithm
   education3: Machine learning
 
+- name: Jeongjun Park (박정준)
+  photo: jeongjun.jpg
+  info: Assistant Professor, Department of Anesthesiology and Pain Medicine, CHA Bundang Medical Center, CHA University School of Medicine
+  email: jeongjun.park@cha.ac.kr
+  number_educ: 2
+  education1: Continous vital signal analysis
+  education2: Sedation level monitoring
+
 # - name: Young-Tak Kim (김영탁)
 #   photo: ytkim.jpg
 #   info: Research Fellow, Harvard University
