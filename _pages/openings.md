@@ -23,6 +23,6 @@ permalink: /contacts
 - 의료 AI 관련 경험이 있거나 관심이 있는 지원자
 
 ### [지원 방법]
-- chldbswjd25@korea.ac.kr로 자유양식의 이력서를 제출하여 지원
+- joeastgur@korea.ac.kr로 자유양식의 이력서를 제출하여 지원
 - 서류 평가 후 개별 면접 진행
 
