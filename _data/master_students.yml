@@ -7,13 +7,13 @@
 #   education2: Brain-computer interface
 #   education3: Neuro-physiological signal processing
 
-- name: MinJu Kim (김민주)
-  photo: minju.png
-  email: irene2448@korea.ac.kr
-  number_educ: 3
-  education1: Deep learning
-  education2: Brain-computer interface
-  education3: Brain image processing
+# - name: MinJu Kim (김민주)
+#   photo: minju.png
+#   email: irene2448@korea.ac.kr
+#   number_educ: 3
+#   education1: Deep learning
+#   education2: Brain-computer interface
+#   education3: Brain image processing
 
 # - name: Kyung Ah Kim (김경아)
 #   photo: kyeonga.jpg

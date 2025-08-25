@@ -42,6 +42,14 @@
   education1: Continous vital signal analysis
   education2: Sedation level monitoring
 
+- name: Jin-Hyung Kim (김진형)
+  photo: jinhyeong.jpg
+  email: louiskim@korea.ac.kr
+  number_educ: 3
+  education1: Brain-computer interface
+  education2: Machine learning
+  education3: Brain signal processing
+
 # - name: Young-Tak Kim (김영탁)
 #   photo: ytkim.jpg
 #   info: Research Fellow, Harvard University

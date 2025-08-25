@@ -31,13 +31,13 @@
 #   education2: Brain signal processing
 #   education3: Machine learning for health information
 
-- name: Jin-Hyung Kim (김진형)
-  photo: jinhyeong.jpg
-  email: louiskim@korea.ac.kr
-  number_educ: 3
-  education1: Brain-computer interface
-  education2: Machine learning
-  education3: Brain signal processing
+# - name: Jin-Hyung Kim (김진형)
+#   photo: jinhyeong.jpg
+#   email: louiskim@korea.ac.kr
+#   number_educ: 3
+#   education1: Brain-computer interface
+#   education2: Machine learning
+#   education3: Brain signal processing
 
 - name: Ji-Hyeok Jung (정지혁)
   photo: jihyeok.jpg

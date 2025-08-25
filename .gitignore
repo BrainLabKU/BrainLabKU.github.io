@@ -5,3 +5,5 @@ vendor/*
 .bundle/*
 
 .DS_STORE
+
+.idea/
