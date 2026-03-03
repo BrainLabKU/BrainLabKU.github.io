@@ -23,13 +23,13 @@
 #   education2: Neurological disorder
 #   education3: Neuro-physical signal processing
 
-- name: Hwa-Yeon Lee (이화연)
-  photo: lhy.jpg
-  email: belita0152@korea.ac.kr
-  number_educ: 3
-  education1: Brain-Computer Interface
-  education2: Neurodegenerative disease
-  education3: Machine/Deep learning
+# - name: Hwa-Yeon Lee (이화연)
+#   photo: lhy.jpg
+#   email: belita0152@korea.ac.kr
+#   number_educ: 3
+#   education1: Brain-Computer Interface
+#   education2: Neurodegenerative disease
+#   education3: Machine/Deep learning
 
 - name: Min-Gyeong Seo (서민경)
   photo: mkseo.jpg

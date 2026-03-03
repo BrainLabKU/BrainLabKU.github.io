@@ -76,3 +76,12 @@
   education1: Deep learning
   education2: Brain-computer interface
   education3: Brain image processing
+
+- name: Hwa-Yeon Lee (이화연)
+  photo: lhy.jpg
+  email: belita0152@korea.ac.kr
+  number_educ: 3
+  education1: Brain-Computer Interface
+  education2: Neurodegenerative disease
+  education3: Machine/Deep learning
+

@@ -55,13 +55,13 @@
   education2: Explainable artificial intelligence
   education3: Neurointensive care
 
-- name: Cheol-Hui Lee (이철희)
-  photo: chulhee.jpg
-  email: dlcjfgmlnasa28@korea.ac.kr
-  number_educ: 3
-  education1: Machine learning
-  education2: Deep learning
-  education3: Brain-computer interface
+# - name: Cheol-Hui Lee (이철희)
+#   photo: chulhee.jpg
+#   email: dlcjfgmlnasa28@korea.ac.kr
+#   number_educ: 3
+#   education1: Machine learning
+#   education2: Deep learning
+#   education3: Brain-computer interface
 
 - name: Jae-Wook Heo (허재욱)
   photo: jaewook.jpg
