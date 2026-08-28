@@ -76,3 +76,19 @@
   education1: Machine learning
   education2: Deep learning
   education3: Brain-computer interface
+
+- name: Min-Kyung Jung (정민경)
+  photo: minkyung.jpg
+  email: mkjung@korea.ac.kr
+  number_educ: 3
+  education1: Biomedical engineering
+  education2: Explainable artificial intelligence
+  education3: Neurointensive care
+
+- name: Ji-Hyeok Jung (정지혁)
+  photo: jihyeok.jpg
+  email: jjh4599@korea.ac.kr
+  number_educ: 3
+  education1: Electroencephalography
+  education2: Deep learning
+  education3: Brain-machine interface
