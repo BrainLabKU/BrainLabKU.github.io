@@ -13,7 +13,7 @@ Brain Lab.은 [고려대학교 정보대학 뇌공학과](https://bce.korea.ac.k
 
 
 
-<div markdown="0" id = "modal">
+<!-- <div markdown="0" id = "modal">
   <div class="modal-content">
     <span class="close-btn" id="close-modal-btn">&times;</span>
     <h2>📢 대학원생 모집</h2>
@@ -23,7 +23,7 @@ Brain Lab.은 [고려대학교 정보대학 뇌공학과](https://bce.korea.ac.k
     <p>우대사항: 컴퓨터공학(CS) 전공자</p>
     <a href = "/contacts">자세히 보기</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div markdown="0" id = "modal">
   <div class="modal-content">
