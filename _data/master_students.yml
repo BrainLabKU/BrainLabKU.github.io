@@ -103,6 +103,14 @@
   education2: Explainable AI
   education3: Digital Health
 
+- name: Jeong-Bin Choi (최정빈)
+  photo: jbc.jpg
+  email: b010206@korea.ac.kr
+  number_educ: 3
+  education1: Brain-Computer Interface
+  education2: Deep Learning
+  education3: Visual Cognition
+
 - name: Who's next?
   photo: wewantyou.png
   email: <a href='/contacts'>Contacts</a>
