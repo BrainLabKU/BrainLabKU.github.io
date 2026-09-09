@@ -95,6 +95,14 @@
   education2: Multimodal model
   education3: Brain-computer interface
 
+- name: Youngseok Kim (김용석)
+  photo: kys.jpg
+  email: shikgom2@korea.ac.kr
+  number_educ: 3
+  education1: Time Series Analysis
+  education2: Explainable AI
+  education3: Digital Health
+
 - name: Who's next?
   photo: wewantyou.png
   email: <a href='/contacts'>Contacts</a>
